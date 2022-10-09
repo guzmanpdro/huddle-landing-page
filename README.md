@@ -13,12 +13,12 @@ Users should be able to:
   
 ### Screenshot
 
-![Desktop preview](/public/design/desktop-preview.jpg)
+![Desktop preview](/public/design/desktop-design.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/guzmanpdro/huddle-landing-page)
+- Live Site URL: [Vercel](https://huddle-landing-page.guzmanpdro.vercel.app/)
 
 ## My process
 
